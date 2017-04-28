@@ -1,0 +1,6 @@
+[submodule "client-wall-app"]
+	path = client-wall-app
+	url = https://github.com/Salomari1987/client-wall-app
+[submodule "rest-wall-app"]
+	path = rest-wall-app
+	url = https://github.com/Salomari1987/rest-wall-app
